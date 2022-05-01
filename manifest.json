@@ -1,0 +1,14 @@
+{
+    "domain": "michigan_dnr_burn_permits",
+    "name": "Michigan DNR Burn Permits",
+    "version": "0.0.1",
+    "documentation": "https://github.com/pacorain/michigan-dnr-burn-permit",
+    "ssdp": [],
+    "zeroconf": [],
+    "homekit": {},
+    "dependencies": [],
+    "codeowners": [
+      "@pacorain"
+    ],
+    "iot_class": "cloud_polling"
+  }
